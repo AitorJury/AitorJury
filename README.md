@@ -49,14 +49,6 @@ Mi paso por el sector servicios me otorgó una **comunicación asertiva y lidera
 
 ---
 
-### 📊 Mi Actividad
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitorJury&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Aitor" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorJury&layout=compact&theme=radical&langs_count=6" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Contacto Profesional
 <p align="left">
 <a href="https://www.linkedin.com/in/aitor-jury-rodr%C3%ADguez-6330742b1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
