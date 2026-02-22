@@ -2,9 +2,9 @@
 
 ### **Fullstack Developer & Systems Architect | Intern @ BBVA Technology**
 
-[cite_start]Soy un desarrollador con mentalidad de **arquitecto de software** y una trayectoria marcada por la **excelencia técnica y el liderazgo**[cite: 687, 702]. [cite_start]Mi enfoque profesional integra el diseño de sistemas escalables con una comunicación estratégica[cite: 688, 690], permitiéndome transformar requisitos de negocio complejos en soluciones de ingeniería eficientes y seguras.
+Soy un desarrollador con mentalidad de **arquitecto de software** y una trayectoria marcada por la **excelencia técnica y el liderazgo**. Mi enfoque profesional integra el diseño de sistemas escalables con una comunicación estratégica, permitiéndome transformar requisitos de negocio complejos en soluciones de ingeniería eficientes y seguras.
 
-[cite_start]Destaco por mi compromiso con la calidad, habiendo obtenido el **mejor promedio académico de mi promoción (9,15)**  [cite_start]y demostrando capacidades de gestión en entornos de alta exigencia, donde logré incrementar la cartera de clientes en un 40% durante mi etapa como encargado[cite: 712, 730].
+Destaco por mi compromiso con la calidad, habiendo obtenido el **mejor promedio académico de mi promoción (9,15)** y demostrando capacidades de gestión en entornos de alta exigencia, donde logré incrementar la rentabilidad y cartera de clientes significativamente durante mi etapa como encargado.
 
 ---
 
@@ -12,7 +12,7 @@
 
 - **BBVA Technology (Internship):** Impulsando la eficiencia en el área de **Workplace CIB** mediante la automatización de procesos críticos y la optimización de la fiabilidad del software.
 - **Edevare (Fullstack Ecosystem):** Liderando el desarrollo técnico de una plataforma integral basada en **Spring Boot** y **Kotlin Multiplatform (KMP)**, aplicando estándares estrictos de **TDD (JUnit 5 + Mockito)**.
-- [cite_start]**Backend & Security Specialist:** Especialista en el desarrollo de servicios en red concurrentes [cite: 384, 431][cite_start], implementación de protocolos **TCP Sockets** [cite: 554, 558] [cite_start]y blindaje de información mediante **SHA-256 con Salted Hashing**.
+- **Backend & Security Specialist:** Especialista en el desarrollo de servicios en red concurrentes, implementación de protocolos **TCP Sockets** y blindaje de información sensible mediante **SHA-256 con Salted Hashing**.
 
 ---
 
@@ -28,15 +28,15 @@
     </td>
     <td align="center" width="33%">
       <strong>Motores de Persistencia</strong><br/><br/>
-      [cite_start]<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" /> [cite: 684, 708]<br/>
+      <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" /><br/>
       <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> [cite: 684]
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
     <td align="center" width="33%">
       <strong>Core Languages</strong><br/><br/>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> [cite: 684, 726]<br/>
-      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> [cite: 684, 726]<br/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /> [cite: 707, 726]
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br/>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
     </td>
   </tr>
 </table>
@@ -45,9 +45,9 @@
 
 ### 🧠 Filosofía de Trabajo & Actitud
 
-* [cite_start]**Determinación Resolutiva:** Mi experiencia previa coordinando equipos [cite: 688, 713] [cite_start]me permite tomar decisiones críticas bajo presión y gestionar plazos de forma rigurosa[cite: 689, 724, 725].
-* [cite_start]**Calidad como Estándar Innegociable:** Entiendo el código limpio, el testing y la documentación detallada como herramientas esenciales para la sostenibilidad del software[cite: 368, 692].
-* [cite_start]**Polivalencia Técnica:** Capacidad demostrada para dominar diversos paradigmas, desde el desarrollo de interfaces en **JavaFX** [cite: 707] [cite_start]hasta la gestión avanzada de bases de datos objeto-relacionales[cite: 684, 727].
+* **Determinación Resolutiva:** Mi experiencia previa coordinando equipos me permite tomar decisiones críticas bajo presión, gestionar plazos de forma rigurosa y liderar procesos de optimización. [cite: 688, 712, 713]
+* [cite_start]**Calidad como Estándar Innegociable:** Entiendo el código limpio, el testing y la documentación detallada como herramientas esenciales para la sostenibilidad y escalabilidad del software. [cite: 368, 692]
+* [cite_start]**Polivalencia Técnica:** Capacidad demostrada para dominar diversos paradigmas, desde el desarrollo de interfaces en **JavaFX** hasta la gestión avanzada de bases de datos objeto-relacionales y extensiones de ERP (**Odoo**). [cite: 684, 707, 727]
 
 ---
 
