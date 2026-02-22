@@ -51,7 +51,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con el **mejor p
 
 ---
 
-### 📫 Contacto Estratégico
+### 📫 Contacto
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aitor-jury-rodr%C3%ADguez-6330742b1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
