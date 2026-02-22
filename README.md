@@ -1,58 +1,66 @@
 # ¡Hola! Soy Aitor Jury 👋
 
-### **Fullstack Developer | Software Engineering Enthusiast | Intern at BBVA Technology**
+### **Software Engineer | Fullstack Developer | Intern @ BBVA Technology**
 
-Soy un desarrollador **Fullstack** con mentalidad de arquitecto y ejecución metódica. Me especializo en crear soluciones donde el orden del backend y la funcionalidad del frontend convergen para ofrecer experiencias de usuario robustas y escalables.
+Soy un desarrollador con mentalidad de **arquitecto de software**. Mi enfoque no se limita a "picar código"; diseño sistemas robustos, seguros y escalables. Entiendo el software como un motor de precisión donde el **orden**, el **testing** y la **arquitectura limpia** son requisitos innegociables.
 
-Mi paso por el sector servicios me otorgó una **comunicación asertiva y liderazgo de equipos** que hoy aplico para traducir necesidades complejas en código eficiente. No solo programo; diseño sistemas pensados para crecer.
-
----
-
-### 🚀 Foco Actual
-- 🏦 **BBVA Technology:** Optimizando procesos en **Workplace CIB** mediante automatización inteligente y mejora de la fiabilidad del software.
-- 🎓 **Edevare (PIM):** Liderando el desarrollo integral (Fullstack) de una plataforma educativa con **Java, Kotlin y PostgreSQL**.
-- 🧠 **Aprendizaje Continuo:** Dominando **Python** para automatización y explorando la integración de **IA** en el ciclo de vida del desarrollo.
+Mi experiencia previa liderando equipos en entornos de alto rendimiento me ha dotado de una **comunicación estratégica y asertiva**, permitiéndome ser el nexo perfecto entre los requisitos de negocio y la ejecución técnica de alto nivel.
 
 ---
 
-### 🛠️ Tech Stack
+### 🏦 Foco Profesional & Criterio Técnico
+- **BBVA Technology (Internship):** Impulsando la eficiencia en el área de **Workplace CIB** mediante la automatización de procesos críticos y optimización de fiabilidad.
+- **Arquitecturas Modernas:** Liderando **Edevare**, un ecosistema educativo basado en **Kotlin Multiplatform (KMP)** y **Spring Boot**, bajo estándares de **TDD (Test-Driven Development)**.
+- **Backend & Security:** Especialista en concurrencia avanzada, comunicaciones de bajo nivel (Sockets TCP) y blindaje de datos (SHA-256 + Salted Hashing).
+
+---
+
+### 🛠️ Engineering Stack
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <strong>Lenguajes</strong><br/><br/>
+      <strong>Arquitecturas & Lógica</strong><br/><br/>
+      <img src="https://img.shields.io/badge/TDD-Red--Green--Refactor-brightgreen?style=flat-square" alt="TDD" /><br/>
+      <img src="https://img.shields.io/badge/REST_API-Integration-blue?style=flat-square" alt="REST" /><br/>
+      <img src="https://img.shields.io/badge/KMP-Multiplatform-7F52FF?style=flat-square&logo=kotlin" alt="KMP" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Motores de Persistencia</strong><br/><br/>
+      <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+      <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Core Languages</strong><br/><br/>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Bases de Datos</strong><br/><br/>
-      <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Herramientas</strong><br/><br/>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 Soft Skills & Filosofía
-* **Resolución de Problemas:** Enfoque analítico para minimizar la deuda técnica desde la primera línea de código.
-* **Comunicación Estratégica:** Capacidad para documentar y exponer arquitecturas técnicas de forma clara para perfiles no técnicos.
-* **Adaptabilidad Ágil:** Gestión eficiente bajo presión y rapidez en la adopción de nuevos stacks tecnológicos.
+### 🧠 Quién soy & Cómo trabajo
+* **Obsesión por la Calidad:** No considero terminada una funcionalidad hasta que su test unitario es verde y su deuda técnica es mínima.
+* **Versatilidad Resolutiva:** Capaz de extender un ERP complejo como **Odoo**, diseñar un cliente bancario en **JavaFX** o gestionar hilos de ejecución concurrentes.
+* **Mentalidad de Equipo:** Creo en la documentación impecable y en el código limpio como herramientas de respeto hacia mis compañeros de equipo.
 
 ---
 
-### 📫 Contacto Profesional
+### 📊 Ingeniería en Cifras
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AitorJury&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Aitor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AitorJury&layout=compact&theme=radical&langs_count=6" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 📫 Contacto Estratégico
 <p align="left">
 <a href="https://www.linkedin.com/in/aitor-jury-rodr%C3%ADguez-6330742b1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:aitor.jr04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-> *"El orden es la base de la escalabilidad; convertir lo complejo en factible es mi estándar."*
+> *"Convertir la complejidad en sistemas factibles, ordenados y seguros no es mi trabajo, es mi estándar."*
