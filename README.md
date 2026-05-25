@@ -1,6 +1,6 @@
-# Aitor Jury Rodríguez | Fullstack Developer 🚀
+# Aitor Jury Rodríguez | Software Developer 🚀
 
-### **Técnico Superior en DAM | Software Developer @ BBVA Technology**
+### **Técnico Superior en DAM | Software Developer**
 
 Desarrollador de software con enfoque en arquitectura modular y una trayectoria definida por la **excelencia técnica y el liderazgo resolutivo**. Mi metodología integra el diseño de sistemas escalables con una comunicación estratégica, transformando requisitos de negocio complejos en soluciones de ingeniería eficientes, seguras y de alto rendimiento.
 
@@ -10,8 +10,8 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con el **mejor p
 
 ### 🏦 Foco Profesional & Criterio Técnico
 
-- **BBVA Technology (Workplace CIB):** Impulsando la eficiencia operativa mediante la automatización de procesos críticos y la mejora de la fiabilidad en arquitecturas de software corporativo.
-- **Edevare (Fullstack Ecosystem):** Liderazgo técnico en una plataforma integral basada en **Spring Boot** y **Kotlin Multiplatform (KMP)**, bajo estándares de **TDD (JUnit 5 + Mockito)**.
+- **BBVA Technology (Workplace CIB):** Durante mi etapa operativa en los servicios centrales, automaticé **procesos críticos** (PowerShell), validé **software corporativo** y analicé deuda técnica para entornos de alta disponibilidad (Sistemas W10/W11).
+- **Edevare (Fullstack Ecosystem):** Liderazgo técnico en una plataforma integral basada en **Spring Boot** y **Kotlin Multiplatform (KMP)**, bajo estándares de **TDD (JUnit 5)**.
 - **Especialista en Backend & Seguridad:** Desarrollo de servicios en red concurrentes, implementación de protocolos **TCP Sockets** y blindaje de información sensible mediante **SHA-256 con Salted Hashing**.
 
 ---
